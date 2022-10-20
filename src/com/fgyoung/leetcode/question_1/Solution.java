@@ -1,4 +1,4 @@
-package Question_1;
+package com.fgyoung.leetcode.question_1;
 
 import java.util.HashMap;
 

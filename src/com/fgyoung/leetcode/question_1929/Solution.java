@@ -1,4 +1,4 @@
-package Question_1929;
+package com.fgyoung.leetcode.question_1929;
 
 class Solution {
     public int[] getConcatenation(int[] nums) {

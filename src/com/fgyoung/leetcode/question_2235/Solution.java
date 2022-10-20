@@ -1,4 +1,4 @@
-package Question_2235;
+package com.fgyoung.leetcode.question_2235;
 
 class Solution {
     public int sum(int num1, int num2) {

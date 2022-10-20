@@ -1,4 +1,4 @@
-package Question_2413;
+package com.fgyoung.leetcode.question_2413;
 
 class Solution {
     public int smallestEvenMultiple(int n) {
